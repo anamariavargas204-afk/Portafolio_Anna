@@ -1,0 +1,25 @@
+PORTAFOLIO · ARCHIVOS PARA GITHUB PAGES
+
+PESO DEL SITIO: 17.45 MB en 30 archivos (antes: 23.89 MB en un solo archivo)
+  index.html ............ 117 KB
+  imágenes .............. 2.38 MB
+  videos ................ 4.04 MB
+  modelos 3D ............ 10.92 MB
+
+LOS 5 ARCHIVOS MÁS PESADOS:
+  5.34 MB  assets/models/3d-character/cabana-del-misterio-1.fbx
+  2.49 MB  assets/models/3d-environment/2.glb
+  2.30 MB  assets/videos/oreo-mascot/video.mkv
+  1.93 MB  assets/models/character-animation/habitacion-nueva.fbx
+  1.16 MB  assets/models/oreo-mascot/untitled.glb
+
+CÓMO PUBLICAR EN GITHUB PAGES
+1) Entra a github.com, crea una cuenta gratis y pulsa New repository. Ponle un nombre y márcalo Public.
+2) Descomprime este ZIP. En el repositorio pulsa Add file > Upload files y arrastra TODO el contenido de la carpeta descomprimida (index.html y la carpeta assets). Pulsa Commit changes.
+3) Ve a Settings > Pages. En Source elige "Deploy from a branch", rama main, carpeta / (root), y guarda.
+4) A los 1-2 minutos tu página estará en https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+
+LÍMITES DE GITHUB: 25 MiB por archivo al subir desde el navegador (hasta 100 MiB por línea de comandos) y hasta 100 archivos por subida.
+Los modelos 3D solo cargan cuando la página está publicada (o desde un servidor); abierta como archivo en tu computador el navegador los bloquea.
+
+Para cambiar algo: edita el portafolio original (el archivo de un solo bloque), vuelve a exportar y reemplaza los archivos en GitHub.
